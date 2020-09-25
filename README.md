@@ -1,4 +1,6 @@
-# Createdebate Datasets(www.createdebate.com）
+# Createdebate Datasets
+
+from www.createdebate.com
 
 数据集格式：
 
