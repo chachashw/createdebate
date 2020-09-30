@@ -4,8 +4,17 @@ from www.createdebate.com
 
 数据集格式：
 
-{post(表述)；
- reply(应答)；
- label(类别标签):支持、反驳、中立
-}
+{id：reply usesr id;
+
+ parent_id:post user id;
+ 
+ reply:son comment;
+
+ post:father comment;
+
+ label:Support、Dispute、Clarify;
+ 
+ theme:discussion topic;
+ 
+ sort：categories of discussion;}
 
