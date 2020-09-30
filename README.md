@@ -16,5 +16,5 @@ from www.createdebate.com
  
  theme:discussion topic;
  
- sort：categories of discussion;}
+ sort：categories of discussion}
 
