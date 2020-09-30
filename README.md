@@ -2,19 +2,19 @@
 
 from www.createdebate.com
 
-数据集格式：
+Fromat：
 
 {id：reply usesr id;
 
- parent_id:post user id;
+ parent_id: post user id;
  
- reply:son comment;
+ reply: son comment;
 
- post:father comment;
+ post: father comment;
 
- label:Support、Dispute、Clarify;
+ label: Support、Dispute、Clarify;
  
- theme:discussion topic;
+ theme: discussion topic;
  
  sort：categories of discussion}
 
