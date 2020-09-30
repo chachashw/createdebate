@@ -4,7 +4,7 @@ from www.createdebate.com
 
 Fromat：
 
-{id：reply usesr id;
+{id：reply user id;
 
  parent_id: post user id;
  
