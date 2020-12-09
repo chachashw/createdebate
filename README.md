@@ -14,7 +14,5 @@ Fromat：
 
  label: Support、Dispute、Clarify;
  
- theme: discussion topic;
- 
- sort：categories of discussion}
+}
 
